@@ -10,7 +10,7 @@ Below is a list of profiles (with more to come), and the features installed on t
 
 |Profile|Features Used|Items to Tune|
 |:------|-------------|-------------|
-|[PETG - Ender 3 - EZABL - MicroSwiss - Petsfang - Mesh Bed Leveling](https://raw.githubusercontent.com/hobbyistmaker/Simplify3D-Printer-Profiles/master/PETG%20-%20Ender%203%20-%20EZABL%20-%20MicroSwiss%20-%20Petsfang%20-%20Mesh%20Bed%20Leveling.fff)|<ul><li>* TH3D EZABL with Solid Bed Supports</li><li>MicroSwiss All-Metal Hotend</li><li>Petsfang Duct with 5150 Fan</li><li>Mesh Bed Leveling Enabled on a Creality v2.1 Board</li></ul>|<ul><li>Startup G-Code</li><li>Fan Cooling Settings</li><li>G-Code Z-Axis offset</li></ul>|
+|[PETG - Ender 3 - EZABL - MicroSwiss - Petsfang - Mesh Bed Leveling](https://raw.githubusercontent.com/hobbyistmaker/Simplify3D-Printer-Profiles/master/PETG%20-%20Ender%203%20-%20EZABL%20-%20MicroSwiss%20-%20Petsfang%20-%20Mesh%20Bed%20Leveling.fff)|<ul><li>TH3D EZABL with Solid Bed Supports</li><li>MicroSwiss All-Metal Hotend</li><li>Petsfang Duct with 5150 Fan</li><li>Mesh Bed Leveling Enabled on a Creality v2.1 Board</li></ul>|<ul><li>Startup G-Code</li><li>Fan Cooling Settings</li><li>G-Code Z-Axis offset</li></ul>|
 
 ## Dropdowns
 
