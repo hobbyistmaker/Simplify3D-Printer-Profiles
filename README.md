@@ -6,7 +6,7 @@ These are the Simplify3D printer profiles that I use for various materials. They
 
 Below is a list of profiles (with more to come), and the features installed on the printer using that profile; along with recommended settings for you to look at or tune before trying to use these profiles.
 
-** NOTE: Failure to review these profiles before using may result in the nozzle of your printer crashing into the bed (e.g. if you're not using the EZABL on profiles with that enabled. **
+**NOTE: Failure to review these profiles before using may result in the nozzle of your printer crashing into the bed (e.g. if you're not using the EZABL on profiles with that enabled.**
 
 |Profile|Features Used|Items to Tune|
 |:------|-------------|-------------|
